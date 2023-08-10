@@ -35,3 +35,7 @@ Um mir ein wenig Motivation zu verschaffen implementierte ich einen bereits exis
 
 ## 30.07.2023
 Ich habe mich zu 90% dazu entschlossen den LSTM-Algorithmus ([Paper](https://www.bioinf.jku.at/publications/older/2604.pdf)) zu gebrauchen. Ich fürchte es wird schwer zu implementieren und deshalb bin ich nicht 100% sicher ob ich diesen Weg wählen soll. Alternativ könnte ich eine "einfache" RNN implementation versuchen, welche jedoch weniger für time-series predictions gebaut ist und zudem schlechter long-term Zusammehänge erkennen kann. 
+
+## 10.08.2023
+Erster commit auf dem "LSTM-Feature" Branch. Ich habe heute mehrere Stunden damit verbracht, Artikel zu lesen, welche sich mit dem LSTM Algorithmus befassen und dabei die Logik und die mathematischen Formeln erklären. Danach habe ich das Gelernte implementiert [Commit](https://github.com/FriedUnique/matura-project/commit/cff4fa7e5377dd5694cffdec3d81c1bddfb4c08e). </br>
+Der nächste logische Schritt ist die Forward und Backward Propagation zusammenzusetzen, damit ein kompletes LSTM-Model entsteht, welches man mit Daten trainieren kann. Beim Lesen habe ich erfahren, dass oftmals die Parameter, sprich die Weights and Biases, mit einem Optimzer-Algorithmus nach jedem Trainingsdurchlauf geupdated werden. Das heisst, dies wird warscheinlich das übernächste Ziel werden.
