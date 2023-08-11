@@ -39,3 +39,6 @@ Ich habe mich zu 90% dazu entschlossen den LSTM-Algorithmus ([Paper](https://www
 ## 10.08.2023
 Erster commit auf dem "LSTM-Feature" Branch. Ich habe heute mehrere Stunden damit verbracht, Artikel zu lesen, welche sich mit dem LSTM Algorithmus befassen und dabei die Logik und die mathematischen Formeln erklären. Danach habe ich das Gelernte implementiert [Commit](https://github.com/FriedUnique/matura-project/commit/cff4fa7e5377dd5694cffdec3d81c1bddfb4c08e). </br>
 Der nächste logische Schritt ist die Forward und Backward Propagation zusammenzusetzen, damit ein kompletes LSTM-Model entsteht, welches man mit Daten trainieren kann. Beim Lesen habe ich erfahren, dass oftmals die Parameter, sprich die Weights and Biases, mit einem Optimzer-Algorithmus nach jedem Trainingsdurchlauf geupdated werden. Das heisst, dies wird warscheinlich das übernächste Ziel werden.
+
+## 11.08.2023
+Heute finalisierte ich die erste, grobe Version vom LSTM-Algorithmus [Commit](https://github.com/FriedUnique/matura-project/commit/9afb06bec96e320b968e79fa70ba156787d3fc7c). Mit der LSTM class kann man nun den Algorithmus bzw. die Parameter trainieren und verbessern. Trotzdem gibt es viele Punkte an denen ich noch weiter arbeiten muss, nähmlich: Optimizer (Algorithmus, welcher die Parameter updated), Cost function und vor allem die Berechnungen bei der "Backward Propagation". 
