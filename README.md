@@ -45,3 +45,9 @@ Heute finalisierte ich die erste, grobe Version vom LSTM-Algorithmus [Commit](ht
 Der "LSTM-Feature" Branch werde ich wahrscheinlich bald mit dem Master-Branch mergen.
 </br>
 Was auch auf meinem Plan steht, ist wie gut überhaupt das Sentiment von einem Artikel verstanden wird und wie gut diese Artikel als Quelle sind. Zum Beispiel ist aktuell der Superconductor "LK-99" in den Medien gewesen und dieses Material könnte ein riesiger Fortschritt sein in der Technologie-Branche. Nun ist jedoch die Frage, wie diese News vom Sentiment-Analyser aufgefasst wird, wenn überhaupt. Ausserdem sind sich Experten beiweitem nicht einig, ob so ein Material exestieren kann, was die Klassifikation des Sentiments erschwert und die Vorhersage eines Aktientrends sehr schwer gestaltet. Ich glaube ich soll mehr Zeit in die "Sentimentgewinnung" investieren, denn es ist das Fundament und der schwierigste Teil des Projekts.
+
+## 25.12.2023 - 01.02.2024
+Schreiben der Maturaarbeit, testen und kreation von Prognosen. 
+
+## 02.02.2024
+Abgabe der phyischen Arbeit und, etwas verspätet, Abgabe der elektronischen Arbeit
