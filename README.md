@@ -48,6 +48,7 @@ Was auch auf meinem Plan steht, ist wie gut überhaupt das Sentiment von einem A
 
 ## 25.12.2023 - 01.02.2024
 Schreiben der Maturaarbeit, testen und kreation von Prognosen. 
+Interview mit einem CFA, Certified Financial Analyst, um herauszufinden, wie robust solche vorhersagen sind.
 
 ## 02.02.2024
 Abgabe der phyischen Arbeit und, etwas verspätet, Abgabe der elektronischen Arbeit
